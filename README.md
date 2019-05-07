@@ -2,6 +2,10 @@
 ## For those who want to make it beautiful on the first day of service.
 ### (The framework is under development)
 
+![Video](https://media0.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=790b76115cd1a1ba46416550736e221a&rid=giphy.gif)
+
+### "We all want an easy code to support"
+
 This structure aims to organize and increase the productivity of the team. The framework separates the viewpoints from the controls, and this saves us time by working with projects where we see a complicated framework to understand and somehow we are stuck in order to adapt to the life cycle of that application.
 
 ### Template that will correct
